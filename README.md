@@ -166,21 +166,7 @@ Configure application settings in `appsettings.json`:
 }
 ```
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 👨‍💻 Author
-
-[shailendra1947](https://github.com/shailendra1947)
-
-## 📞 Support
-
-For issues, questions, or suggestions, please open an [GitHub Issue](https://github.com/shailendra1947/CQRS-with-Seprate-DB/issues).
 
 ---
 
